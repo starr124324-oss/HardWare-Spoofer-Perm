@@ -1,1 +1,4 @@
 node_modules/
+dist/
+electron_output.log
+package_log.txt
